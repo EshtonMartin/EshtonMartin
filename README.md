@@ -11,7 +11,7 @@ Most importantly: ***I ❤️ dogs!***
 - Rabid consumption of content
 - Rehanging and extending the kitchen cabinets
 
-🍂  *Be the change you wish to see in the world.*  — Mohandas Ghandi 🍂
+*Be the change you wish to see in the world.*  — Mohandas Ghandi 🍂
 
 ### 3...2...1... Contact:
 - [@EshtonMartin](https://www.twitter.com/eshtonmartin)
