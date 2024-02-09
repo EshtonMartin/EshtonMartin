@@ -1,4 +1,4 @@
-<a rel="me" href="https://indieweb.so cial/@eshton>&nbsp;</a>
+<a rel="me" href="https://indieweb.so cial/@eshton">@eshton@indieweb.social</a>
 
 ## Eshton Martin
 
