@@ -16,4 +16,4 @@ Most importantly: ***I ❤️ dogs!***
 ### 3...2...1... Contact:
 - <a rel="me" href="https://indieweb.social/@eshton">@eshton@indieweb.social</a>
 - <a rel="me" href="https://babka.social/@eshton">@eshton@babka.social</a>
-- [@eshton@babka.social]rel="me" href="https://babka.social/@eshton")
+- [@eshton@babka.social](rel="me" href="https://babka.socialb/@eshton")
