@@ -1,4 +1,4 @@
-<a rel="me" href="https://indieweb.social/@eshton">Mastodon</a>
+<a rel="me" href="https://indieweb.social/@eshton"> </a>
 
 ## Eshton Martin
 
