@@ -1,3 +1,5 @@
+<a rel="me" href="https://indieweb.social/@eshton">Mastodon</a>
+
 ## Eshton Martin
 
 I'm **Eshton**, and my [pronoun.is/she](https://pronoun.is/she). Welcome to my GitHub home--there's no telling what you might find here!
