@@ -1,6 +1,4 @@
 ## Eshton Martin
-<a rel="me" href="https://indieweb.so rcial/@eshton">@eshton@indieweb.social</a>
-<a rel="me" href="https://babka.social/@eshton">@eshton@babka.social</a>
 
 I'm **Eshton**, and my [pronoun.is/she](https://pronoun.is/she). Welcome to my GitHub home--there's no telling what you might find here!
 
@@ -16,5 +14,6 @@ Most importantly: ***I ❤️ dogs!***
 *Be the change you wish to see in the world.*  — Mohandas Ghandi 🍂
 
 ### 3...2...1... Contact:
-- [@EshtonMartin](https://www.twitter.com/eshtonmartin)
-- [EshtonMartin.com](https://EshtonMartin.com) -- *eventually...*
+- <a rel="me" href="https://indieweb.social/@eshton">@eshton@indieweb.social</a>
+- <a rel="me" href="https://babka.social/@eshton">@eshton@babka.social</a>
+- [@eshton@babka.social]rel="me" href="https://babka.social/@eshton")
